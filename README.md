@@ -230,6 +230,27 @@ Fast-loading optimized websites.
 
 </td>
 
+<br>
+
+<td width="33%">
+
+<a href="https://rubiqdesign.com/" target="_blank">
+
+<img src="https://s.wordpress.com/mshots/v1/https://rubiqdesign.com/?w=900" width="100%"/>
+
+</a>
+
+<br>
+
+### Rubiq Design
+
+<a href="https://rubiqdesign.com/" target="_blank">
+<img src="https://img.shields.io/badge/LIVE%20SITE-2563EB?style=for-the-badge"/>
+</a>
+
+</td>
+
+
 </tr>
 </table>
 
